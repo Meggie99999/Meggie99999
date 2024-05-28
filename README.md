@@ -1,7 +1,7 @@
 ## Hi there 👋
 **"_I AM BIANCA_"**
-I'AM STUDYING THE PLATFORM ALURA
-I'M STUDYING THE MATHEMATICS ITINERARY
-..heart
+- I'AM STUDYING THE PLATFORM ALURA
+- I'M STUDYING THE MATHEMATICS ITINERARY
+  🫀
 
-![](https://tenor.com/pt-BR/view/kiss-gif-4875956593066505581)
+![](https://media1.tenor.com/m/Q6rgr_3z9W0AAAAC/kiss.gif)
